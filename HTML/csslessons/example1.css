@@ -1,0 +1,32 @@
+p {
+  font-weight: bold;
+  font-size: 2em;
+  color:gray;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: line-through;
+  text-transform: uppercase;
+}
+
+a {
+  color:  #3ed542;
+}
+
+a:hover {
+  font-size: 1.1em;
+}
+
+p a {
+  color: yellow;
+}
+
+font-size				16px or 1.3em
+font-weight			light, lighter, normal, bolder, bold...
+
+text-align			center, left, right
+text-decoration 		underline, line-through
+text-transform		uppercase, lowercase
+
+color				red, blue, #45e23f, rgb(173, 32, 65)
